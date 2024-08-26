@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.5.1
+Name=QuPath
+Comment=Open source software for digital pathology
+Exec=/QuPath/bin/QuPath
+Icon=/QuPath/lib/QuPath.png
+Terminal=false
+Type=Application
+Categories=Education;Science;
